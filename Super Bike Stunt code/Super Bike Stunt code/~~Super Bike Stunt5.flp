@@ -1,0 +1,12 @@
+﻿<flash_project name="~~Super Bike Stunt5" version="1">
+	<project_file path="./~~Super Bike Stunt5.fla" filetype="fla" profile="" def_file="true"/>
+	<project_file path="./CWheel.as" filetype="as"/>
+	<project_file path="./CVector2D.as" filetype="as"/>
+	<project_file path="./CMan.as" filetype="as"/>
+	<project_file path="./CParticleEngine.as" filetype="as"/>
+	<project_file path="./CSpringConstraint.as" filetype="as"/>
+	<project_file path="./CParticle.as" filetype="as"/>
+	<project_file path="./CCamera.as" filetype="as"/>
+	<project_file path="./CBack.as" filetype="as"/>
+	<project_file path="./CBikeSynchronizer.as" filetype="as"/>
+</flash_project>
